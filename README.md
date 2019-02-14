@@ -4,3 +4,4 @@ Here I collected some good math related problems and try to understand and solve
 
 1. FindPrimesWithinNAndM: find the number of primes in the range [N, M] in which N and M are both integers and M > n.
 2. Codec: find effective way to encode a longURL into a shortURL and also a decode way to restore the longURL from shortURL.
+3. DIStringMatch: Return a integer array in which the layout of numbers in it satisfying the 'D' 'I' rules in the given string.
