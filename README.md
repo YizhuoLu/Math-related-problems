@@ -8,3 +8,4 @@ Here I collected some good math related problems and try to understand and solve
 4. ProjectionAreaOf3DShapes: Return the total area of all three projections of a a solid body.
 5. SelfDividingNum: Given a lower and upper number bound, output a list of every possible self dividing number, including the bounds if possible.
 6. ComplexNumberMultiplication: Given two complex numbers all in the form of "a+bi". Return the result of two complex numbers' multiplications.
+7. SmallestRangeI: Return the smallest possible difference between the maximum value of new array and the minimum value of the new array.
