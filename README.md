@@ -12,3 +12,4 @@ Here I collected some good math related problems and try to understand and solve
 8. SpiralMatrixIII: Return a list of coordinates representing the positions of the grid in the order they were visited (in spiral way).
 9. StoneGame: Two guys play a game that they in turn choose one piles of stones from either leftmost side or rightmost side. Tell if the first player (choose initially) could win or not.
 10. BinaryGap: find and return the longest distance between two consecutive 1's in the binary representation of a given integer.
+11. SimilarRGB: return a 7 character color that is most similar to #ABCDEF, and has a shorthand (that is, it can be represented as some "#XYZ").
