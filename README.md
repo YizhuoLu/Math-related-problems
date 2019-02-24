@@ -14,3 +14,4 @@ Here I collected some good math related problems and try to understand and solve
 10. BinaryGap: find and return the longest distance between two consecutive 1's in the binary representation of a given integer.
 11. SimilarRGB: return a 7 character color that is most similar to #ABCDEF, and has a shorthand (that is, it can be represented as some "#XYZ").
 12. LargestPerimeterTriangle: return the largest perimeter of a triangle with non-zero area from an array.
+13. SurfaceAreaOf3DShapes: Return the total surface area of the resulting shapes.
