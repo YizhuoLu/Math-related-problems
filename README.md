@@ -15,3 +15,5 @@ Here I collected some good math related problems and try to understand and solve
 11. SimilarRGB: return a 7 character color that is most similar to #ABCDEF, and has a shorthand (that is, it can be represented as some "#XYZ").
 12. LargestPerimeterTriangle: return the largest perimeter of a triangle with non-zero area from an array.
 13. SurfaceAreaOf3DShapes: Return the total surface area of the resulting shapes.
+14. ArithmeticSlices: return the number of arithmetic slices in the array A.
+15. OptimalDivision: find out how to add parenthesis to get the maximum division of the values from the given array.
