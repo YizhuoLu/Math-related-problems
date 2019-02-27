@@ -17,4 +17,4 @@ Here I collected some good math related problems and try to understand and solve
 13. SurfaceAreaOf3DShapes: Return the total surface area of the resulting shapes.
 14. ArithmeticSlices: return the number of arithmetic slices in the array A.
 15. OptimalDivision: find out how to add parenthesis to get the maximum division of the values from the given array.
-16. Return the area of the largest triangle that can be formed by any 3 of the points.
+16. LargestTriangleArea: Return the area of the largest triangle that can be formed by any 3 of the points.
