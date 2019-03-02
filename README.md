@@ -19,3 +19,6 @@ Here I collected some good math related problems and try to understand and solve
 15. OptimalDivision: find out how to add parenthesis to get the maximum division of the values from the given array.
 16. LargestTriangleArea: Return the area of the largest triangle that can be formed by any 3 of the points.
 17. SquirrelSimulation: Find the minimum move to get all nuts.
+18. MinimumMovesToEqualArrayElementsII: Given a non-empty integer array, find the minimum number of moves required to make all array elements equal
+19. MirrorReflection: Return the number of the receptor that the ray meets first.
+20. Remove9: return the n-th integer after removing 9 related number.
