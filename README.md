@@ -22,3 +22,6 @@ Here I collected some good math related problems and try to understand and solve
 18. MinimumMovesToEqualArrayElementsII: Given a non-empty integer array, find the minimum number of moves required to make all array elements equal
 19. MirrorReflection: Return the number of the receptor that the ray meets first.
 20. Remove9: return the n-th integer after removing 9 related number.
+21: ExcelSheetColumnNumber: Given a column title as appear in an Excel sheet, return its corresponding column number.
+22. RabbitsInForest: Find the minimum number of rabbits that could be in the forest.
+23. KeysKeyboard: find out the maximum numbers of 'A' you can print on screen.
